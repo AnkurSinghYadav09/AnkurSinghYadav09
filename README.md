@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]([https://ankur-yadav.netlify.app])**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://ankur-yadav.netlify.app)**
 
 - 📫 How to reach me **ankursingh989@gmail.com**
 
