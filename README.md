@@ -1,7 +1,7 @@
 <img width="60%"  src="https://i.imgur.com/iXuL1HG.png" height="195px"  />
 <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 100px >, I'm Ankur</h1>
+<h1 align="center">Hello Fellow < Developers/ >!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 100px ></h1>
 <h3 align="center">I'm a Full-Stack Web Developer.</h3>
 
 <br/>
