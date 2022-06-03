@@ -59,7 +59,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/balkishanpal/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/ankur-singh-yadav-42059a46//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <!-- <a href = "https://twitter.com/G_Yashvant/"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a> -->
 
 </p>
