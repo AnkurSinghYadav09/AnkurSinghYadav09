@@ -1,11 +1,12 @@
-<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+<img width="60%"  src="https://i.imgur.com/iXuL1HG.png" height="195px"  />
+<img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ankur</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 100px >, I'm Ankur</h1>
 <h3 align="center">I'm a Full-Stack Web Developer.</h3>
 
 <br/>
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me    <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height = 120px> </h2>
 
 
 - 🌱 I’m currently learning **Data Structures, Algorithms and Mern stack.**
@@ -56,10 +57,12 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Connect with me:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" height="70px"> </h2>
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ankur-singh-yadav-42059a46//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<!-- <a href = "https://twitter.com/G_Yashvant/"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></a> -->
+
 
 </p>
+
+
