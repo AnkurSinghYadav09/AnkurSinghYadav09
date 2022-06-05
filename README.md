@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
 <img src="https://img.shields.io/badge/E-Express-black"/>
 <img src="https://img.shields.io/badge/R-React-skyblue"/>
+    <img src="https://img.shields.io/badge/R-Redux-blue"/>
 <img src="https://img.shields.io/badge/N-Node-green"/>
 <img src="https://img.shields.io/badge/JS-Javascript-yellow"/>
 </p>
@@ -38,6 +39,8 @@
     <img src="https://ih1.redbubble.net/image.438908244.6144/st,small,507x507-pad,600x600,f8f8f8.u2.jpg" alt="express" width="50" style="margin-right:20px"/>
     <img src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" style="padding:8px" style="margin-right:20px"/>
     <img src="https://pbs.twimg.com/profile_images/1438268853079904265/JUtTwrBC.jpg" width="50" height="40" style="margin-right:20px"/>
+    <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="50" height="40" style="margin-right:20px"/>
+  
 </p>
 
 <br/>
