@@ -59,8 +59,7 @@
 
 <a href="https://github.com/Ankur-Singh/github-readme-activity-graph"><img alt="balkishan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnkurSinghYadav09&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
-<br/>
+
 
 ## Connect with me:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" height="50px"> </h2>
 <p align="left">
