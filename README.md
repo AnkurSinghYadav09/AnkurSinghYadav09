@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 70px>< Developers/>!</h1>
+<h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Developers/>!</h1>
 <h3 align="center">I'm a Full-Stack Web Developer.</h3>
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
