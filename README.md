@@ -68,7 +68,8 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/ankur-singh-yadav-42059a46//"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<a href = "https://twitter.com/ankursingh989"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    
 
 </p>
 
