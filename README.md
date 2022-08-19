@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Developers/>!</h1>
-<h3 align="center">I'm a Full-Stack Web Developer.</h3>
+
 <h4 align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.</h4>
 <p align= "center">
 <img src="https://img.shields.io/badge/M-MongoDB-brightgreen"/>
